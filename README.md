@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**jeonkyungwon/jeonkyungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+### Hi there 👋 My name is Jeon kyungwon !
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ✨ Interests ✨
+<div>
+game development
+</div
+
+<br>
+
+### 🛠 Tech Stack 🛠
+<div>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> 
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white">
+</div>
