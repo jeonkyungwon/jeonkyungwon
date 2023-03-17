@@ -8,7 +8,7 @@
 
 
 ### ✨ Interests ✨
-<div>Product Manager
+<div>Product Manager & Front-End
 </div>
 
 <br>
