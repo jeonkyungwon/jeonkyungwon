@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-#E34F26?style=flat&logo=HTML&logoColor=white">
+
 </div>
   
 <br>
