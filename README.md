@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white">
 </div>
 <div>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=ffd35b" />
 </div>
   
