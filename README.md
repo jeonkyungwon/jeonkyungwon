@@ -10,9 +10,11 @@
 
 </div>
 
+<br>
+
 ### ✨ Interests ✨
-<div>Front-End Developer
-</div>
+`Front-end`
+
 
 <br>
 
