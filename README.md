@@ -39,8 +39,6 @@
   
 <br>
 
-<summary>🔥  Project</summary><br>
-
 
 ### 🌟Solved.ac 🌟
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=peterjkw)](https://solved.ac/peterjkw)
