@@ -6,7 +6,7 @@
 <div>
 🦁 LIKELION Sejong UNIV. 11th FrontEnd (2023.03 ~ 2023.12)
 
-👨‍💻 LG U+ URECA 1th FrontEnd (2024.06 ~ )  
+👨‍💻 LG U+ URECA 1th FrontEnd (2024.06 ~ 2024.12)  
 
 </div>
 
