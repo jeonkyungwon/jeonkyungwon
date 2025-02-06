@@ -31,12 +31,12 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
 </div>
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=ffd35b" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-
 </div>
   
 <br>
