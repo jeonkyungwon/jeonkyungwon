@@ -1,25 +1,13 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=365AA1&height=200&section=header&text=Kyungwon%20Jeon&fontSize=80&fontColor=b0c4de)
-
-### About me!
-<div>
-🦁 LIKELION Sejong UNIV. 11th FrontEnd (2023.03 ~ 2023.12)
-
-👨‍💻 LG U+ URECA 1th FrontEnd (2024.06 ~ 2024.12)  
-
-</div>
+## Hi there👋
+꾸준한 배움을 통해 지속 성장하는 개발자 전경원입니다.
 
 <br>
 
-### ✨ Interests ✨
-`Front-end`
-
-
-<br>
-
-### 🛠 Tech Stack 🛠
+## Tech Stack
 <div>
+  
+**Algorithm**
+
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
@@ -28,20 +16,48 @@
 <br>
 
 <div>
+  
+**Frontend**
+  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
-</div>
-<div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=ffd35b" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
 </div>
-  
+
 <br>
 
+<div>
 
-### 🌟Solved.ac 🌟
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=peterjkw)](https://solved.ac/peterjkw)
-<a href="https://solved.ac/peterjkw"><img src="http://mazandi.herokuapp.com/api?handle=peterjkw&theme=warm"/></a>
+**Deploy**
+
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/>
+
+</div>
+
+</div>
+
+
+<br>
+<br>
+
+## Experiences
+#### SSAFY 삼성 청년 SW·AI Academy 14기
+- 2025.07 ~ now
+- Coding Track - Java 전공
+#### LG U+ URECA SW 교육과정 1기
+- 2024.06 ~ 2024.12
+- Frontend 개발자 과정
+#### LIKELION Sejong UNIV 11기 
+- 2023.03 ~ 2023.12
+- Frontend Track
+
+<br>
+
+## Achievements
+- LG U+ URECA 종합프로젝트 우수상 (2024.11) | [PREAM](https://github.com/team-pream/pream-web) 
+- 세종대학교 창업지원단 IT 창업 기획 컨퍼런스 최우수상 (2023.12)
+- 세종대학교 창업지원단 창업아이템 경진대회 우수상 (2023.11)
