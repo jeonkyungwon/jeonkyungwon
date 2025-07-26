@@ -47,7 +47,7 @@
 ## Experiences
 #### SSAFY 삼성 청년 SW·AI Academy 14기
 - 2025.07 ~ now
-- Coding Track - Java 전공
+- Coding Track Java 전공 과정
 #### LG U+ URECA SW 교육과정 1기
 - 2024.06 ~ 2024.12
 - Frontend 개발자 과정
